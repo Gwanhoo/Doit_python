@@ -6,7 +6,7 @@ Sum = 0
 i = 1
 
 while i <= N:
-    Sum += i # sum + i = sum
+    Sum += i  # sum + i = sum
     i += 1
 
 print(Sum)
